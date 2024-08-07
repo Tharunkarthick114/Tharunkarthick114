@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Python, Django, Llama**
 
-💬 Ask me about **React, Firebase... or even Stock market [here](https://github.com/Tharunmoonwalker/Tharunmoonwalker/issues)**
+💬 Ask me about **React, Firebase.. or even Stock market [here](https://github.com/Tharunmoonwalker/Tharunmoonwalker/issues)**
 
 ⚡ Fun fact **Breaking Bad's Walter White was my Chemistry Professor**
 
