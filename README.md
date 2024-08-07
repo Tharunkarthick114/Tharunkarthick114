@@ -12,9 +12,9 @@
  
  👨‍💻 I’m currently working on **AI Embedding Model and much more..**
  
- 🌱 I’m currently learning **Python, Django, Llama**
+ 🌱 I’m currently learning **Flask, FastAPI**
 
-💬 Ask me about **React, Firebase.. or even Stock market [here](https://github.com/Tharunmoonwalker/Tharunmoonwalker/issues)**
+💬 Ask me about **Python, Ollama, Huggingface ... or even Stock market [here](https://github.com/Tharunmoonwalker/Tharunmoonwalker/issues)**
 
 ⚡ Fun fact **Breaking Bad's Walter White was my Chemistry Professor**
 
